@@ -17,8 +17,8 @@ public class ProductController {
     public Product addProduct(@RequestBody Product product) {
         return service.saveProduct(product);
     }
-	//new method added.......................
-	@PostMapping("/addTwoProduct")
+	//new method added....
+	@PostMapping("/addTwodfasdfadsfdfadsProduct")
     public Product addProduct(@RequestBody Product product) {
         return service.saveProduct(product);
     }
