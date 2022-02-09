@@ -18,7 +18,7 @@ public class ProductController {
         return service.saveProduct(product);
     }
 	//new method added....
-	@PostMapping("/addTwodfasdfadsfdfadsProduct")
+	@PostMapping("/addTwodfasdfadsfProduct")
     public Product addProduct(@RequestBody Product product) {
         return service.saveProduct(product);
     }
