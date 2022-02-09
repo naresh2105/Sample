@@ -18,7 +18,11 @@ public class ProductController {
         return service.saveProduct(product);
     }
 	//new method added....
+<<<<<<< HEAD
 	@PostMapping("/addTwodfasdfadsfProduct")
+=======
+	@PostMapping("/addTwoProduct")
+>>>>>>> a3a246455fcd2edc60c0eb4e219eca4294667a2f
     public Product addProduct(@RequestBody Product product) {
         return service.saveProduct(product);
     }
