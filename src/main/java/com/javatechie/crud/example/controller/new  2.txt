@@ -1,0 +1,30 @@
+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
+
+
+
+
+git remote set-url origin https://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@github.com/https://github.com/naresh2105/Sample.git
+
+
+Haa remote url set kra nantr 
+
+changes commit kra
+
+git remote set-url origin https://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@github.com/naresh2105/Sample.git
+
+
+
+
+remote.origin.url=https://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@github.com/https://github.com/naresh2105/Sample.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+user.name=naresh2105
+user.email=np02105@gmail.com
+
+
+
+git remote add origin /https://github.com/naresh2105/Sample.git
+
+
+git remote set-url origin https://github.com/naresh2105/Sample.git
